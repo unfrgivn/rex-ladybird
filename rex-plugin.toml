@@ -1,0 +1,9 @@
+id = "unfrgivn.rex-ladybird"
+name = "Rex Ladybird"
+version = "0.1.0"
+description = "Open Ladybird's terminal browser in a Rex window or floating layer."
+homepage = "https://github.com/unfrgivn/rex-ladybird"
+license = "MIT"
+rex_api = 16
+
+config = "init.lua"
